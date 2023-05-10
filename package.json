@@ -1,0 +1,15 @@
+{
+    "name": "@pqina/svelte-pintura",
+    "description": "Pintura Image Editor Components for use with Svelte",
+    "version": "9.0.0",
+    "browser": "index.js",
+    "main": "index.js",
+    "svelte": "index.js",
+    "type": "module",
+    "author": "Rik Schennink at PQINA",
+    "homepage": "https://pqina.nl/pintura/",
+    "license": "https://pqina.nl/pintura/license/",
+    "peerDependencies": {
+        "@pqina/pintura": "8.x"
+    }
+}
