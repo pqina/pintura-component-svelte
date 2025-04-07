@@ -1,13 +1,14 @@
 {
     "name": "@pqina/svelte-pintura",
     "description": "Pintura Image Editor Components for use with Svelte",
-    "version": "9.1.1",
+    "version": "9.1.2",
     "browser": "index.js",
     "main": "index.js",
     "svelte": "index.js",
     "exports": {
         ".": {
-            "svelte": "./index.js"
+            "svelte": "./index.js",
+            "types": "./svelte-pintura.d.ts"
         }
     },
     "type": "module",
